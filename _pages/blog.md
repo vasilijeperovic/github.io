@@ -1,8 +1,8 @@
 ---
 layout: default
 permalink: /blog/
-title: blog
-nav: true
+title: Blog
+nav: false #change to true if you want to appear on top
 nav_order: 1
 pagination:
   enabled: true
